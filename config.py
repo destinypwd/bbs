@@ -21,9 +21,9 @@ FRONT_USE_ID = 'a'
 MAIL_SERVER = 'smtp.qq.com'
 MAIL_PORT = '587'
 MAIL_USE_TLS =True
-MAIL_USERNAME ='871598447@qq.com'
-MAIL_PASSWORD ='dgbhpybeuiucbfgj'
-MAIL_DEFAULT_SENDER = '871598447@qq.com'
+MAIL_USERNAME =''
+MAIL_PASSWORD =''
+MAIL_DEFAULT_SENDER = ''
 
 # 上传设置
 UPLOAD_FOLDER = os.path.join(os.getcwd(), 'static/picture')
