@@ -4,4 +4,4 @@
 
 # 安装
 
-首先下载requ.txt
+首先下载requiements.txt安装对应的环境，然后在config.py文件中更改对应的配置
