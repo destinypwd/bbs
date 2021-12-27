@@ -1,0 +1,91 @@
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    list-style: none;
+}
+.index-banner{
+    border-radius: 10px;
+    overflow: hidden;
+    height: 300px;
+    width: 50%;
+    margin-left: 15%;
+}
+
+.index-banner img{
+    height: 200px;
+}
+.carousel{
+    position: relative;
+}
+.sm-container{
+    float: right;
+    width: 17%;
+    margin-right:15%;
+}
+.post-group{
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    overflow: hidden;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: 15%;
+}
+
+.post-group-head{
+    overflow: hidden;
+    list-style: none;
+    margin: 15px;
+}
+
+.post-group-head li{
+    float: left;
+    padding: 5px 40px;
+}
+
+.post-group-head li a{
+    color:#333;
+    font-size: 18px;
+}
+
+.post-group-head li.active{
+    background: #ccc;
+}
+
+.post-list-group{
+    margin-top: 20px;
+}
+
+.post-list-group li{
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.author-avatar-group{
+    float: left;
+}
+
+.author-avatar-group img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.post-info-group{
+    float: left;
+    margin-left: 10px;
+    border-bottom: 1px solid #e6e6e6;
+    width: 85%;
+    padding-bottom: 10px;
+}
+
+.post-info-group .post-info{
+    margin-top: 10px;
+    font-size: 12px;
+    color: #8c8c8c;
+}
+
+.post-info span{
+    margin-right: 10px;
+}
